@@ -1,0 +1,1 @@
+## Ai model integration in application using FastApi
